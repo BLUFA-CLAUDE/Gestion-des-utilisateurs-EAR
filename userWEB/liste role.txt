@@ -1,0 +1,11 @@
+<!--
+                <div class="form-group ">
+                              <label class="control-label">Role :</label>    
+                                  <select name="Idrole" id="inputState" class="select2-single-placeholder form-control">
+                                    <option  selected>Choisir ...</option>
+                                    <c:forEach items="${liste_roles}" var="r">
+                                    	<option value="${r.id }">${r.nom }</option>
+                                    </c:forEach>
+                                  </select>
+                </div>
+                 -->
